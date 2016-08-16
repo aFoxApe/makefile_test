@@ -1,4 +1,0 @@
-# makefile_test
-自己编写的makefile文件，用于加深makefile理解
-里面含有一个pdf文档和一些代码
-代码位于分支中
